@@ -23,7 +23,8 @@
     "preset": "react-native"
   },
   "peerDependencies": {
-    "react-native": "0.65.1"
+    "react-native": "^0.65.1 || ^0.72.x"
+},
   },
   "files": [
     "index.d.ts",
